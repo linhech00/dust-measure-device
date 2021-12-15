@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RST_TFT Pin=U-29
+Removed Pin From Net: NetName=DC_TFT Pin=U-30
+Removed Pin From Net: NetName=LED_TFT Pin=U-31
+Added Pin To Net: NetName=LED_TFT Pin=U-40
+Added Pin To Net: NetName=DC_TFT Pin=U-41
+Added Pin To Net: NetName=RST_TFT Pin=U-42
+Added Room: Name=U_[01] - MCU
+Added Room: Name=U_[02] - Sensor
+Added Room: Name=U_[03] - Module Sim
+Added Room: Name=U_[04] - Display
+Added Room: Name=U_[05] - Power Supply

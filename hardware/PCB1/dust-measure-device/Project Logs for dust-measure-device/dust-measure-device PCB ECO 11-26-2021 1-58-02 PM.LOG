@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=12V Pin=J3-2
+Added Pin To Net: NetName=12V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Room: Name=U_[01] - MCU
+Added Room: Name=U_[02] - Sensor
+Added Room: Name=U_[03] - Module Sim
+Added Room: Name=U_[04] - Display
+Added Room: Name=U_[05] - Power Supply

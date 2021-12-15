@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=Y NewDesignator=Y1
+Change Component Designator: OldDesignator=Y NewDesignator=Y2
+Change Net Name : Old Net Name=RESET New Net Name=RST
+Added Pin To Net: NetName=RESET Pin=C15-2
+Added Pin To Net: NetName=RESET Pin=Q4-3
+Added Pin To Net: NetName=RESET Pin=U3-16
+Added Net: Name=RESET
+Added Member To Class: ClassName=U_[01] - MCU Member=Component Y2 8MHz

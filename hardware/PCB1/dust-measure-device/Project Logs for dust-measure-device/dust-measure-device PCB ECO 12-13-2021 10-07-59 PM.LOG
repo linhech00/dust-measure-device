@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC_MCU Pin=F1-1
+Removed Member From Class: ClassName=U_[01] - MCU Member=F1
+Added Pin To Net: NetName=VCC_MCU Pin=C32-1
+Added Pin To Net: NetName=VCC_MCU Pin=JP1-1
+Added Pin To Net: NetName=VCC_MCU Pin=R26-1
+Added Pin To Net: NetName=VCC_MCU Pin=U1-2
+Added Pin To Net: NetName=VCC_MCU Pin=U1-2
+Change Net Name : Old Net Name=VCC_MCU New Net Name=3.3V
+Added Room: Name=U_[01] - MCU
+Added Room: Name=U_[02] - Sensor
+Added Room: Name=U_[03] - Module Sim
+Added Room: Name=U_[04] - Display
+Added Room: Name=U_[05] - Power Supply
